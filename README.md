@@ -2,7 +2,7 @@
 <h3 align="center">Kelajakda dasturchi bo'lmoqchiman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Assalomu+alaykum!+Men+GitHub'daman!;Dasturlashni+yoqtiraman.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Assalomu+alaykum!+Men+GitHub'daman!;Siz+uchun+bushman!;Agar+biror+mavzu+yuzasidan+bulsa+aloqaga+chiqing" alt="Typing SVG" />
 </p>
 
 ---
