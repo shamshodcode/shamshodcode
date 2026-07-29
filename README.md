@@ -20,6 +20,20 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/JoUjwbpIU0xsariXgi/giphy.gif" width="100%"/>
+
+<sub>🦅 Fly fast. Build faster.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <table width="100%">
