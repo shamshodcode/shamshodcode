@@ -1,64 +1,121 @@
-<h1 align="center">Salom 👋, Men Halimov Shamshodbek</h1>
-<h3 align="center">Kelajakda dasturchi bo'lmoqchiman</h3>
+<h1 align="center">Hi 👋, I'm Shamshodbek Halimov</h1>
+
+<h3 align="center">
+Backend Developer • Node.js • Java • Python • Go Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Assalomu+alaykum!+Men+GitHubdaman!;Men+Dasturlashni+yoqtiraman!;Zarur+bulsam+aloqaga+chiqing!" alt="Typing SVG" />
+Passionate about backend development, scalable REST APIs, databases,
+and modern web technologies.
+Always learning new technologies and building real-world projects.
 </p>
 
 ---
 
-## 🧠 Men haqimda qisqacha:
+# 🚀 About Me
 
-- 🎓 Hozirda 9-sinf o‘quvchisiman  
-- 💉 Kelajakda **Buyuk Dasturchi** bo‘lishni istayman  
-- 💻 Bo‘sh vaqtimda dasturlash bilan shug‘ullanaman  
-- 🌍 Google ishlash orzuyim
-- 📹 YouTube’da **Dasturlash**, dasturlash va xakerlik mavzularida videolar ko'raman  
-- 🎮 Gamer va 3D model yaratishga qiziqaman  
+💻 Backend Developer
 
----
+🌱 Currently learning Go
 
-## 🛠 Mening ko‘nikmalarim
+⚡ Interested in AI & Cloud
 
-### Tillar:
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=00FF00)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+📚 Love solving programming problems
 
-### Veb:
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=00FF00)
-![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+🎯 Goal: Become a Senior Backend Engineer
+
+🇺🇿 Uzbekistan
 
 ---
 
-## ⚙️ Qurilmalarim & Muhitlar:
-- 💻 Visual Studio Code
-- 🧠 PyCharm
-- 🌐 Vite
-- 🧰 MongoDB, MySQL
+# 🛠 Languages
+
+✔ C++
+
+✔ Python
+
+✔ Java
+
+✔ JavaScript
+
+✔ Go (Learning)
 
 ---
 
-## 📈 GitHub statistikalarim:
+# ⚙ Backend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamshodcode&show_icons=true&theme=radical&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000" />
-</p>
+✔ Node.js
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamshodcode&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+✔ Express.js
 
----
+✔ REST API
 
-## 📫 Aloqa uchun:
-- 📧 Email: halimovshamshodbek173@gmail.com  
-- 💬 Telegram: [@uzbek_dev1](https://t.me/uzbek_dev1)
+✔ JWT Authentication
+
+✔ Socket.IO
 
 ---
 
-<h3 align="center">"Harakatda barakat!"</h3>
+# 🎨 Frontend
+
+✔ React
+
+✔ HTML
+
+✔ CSS
+
+✔ Tailwind CSS
+
+✔ Bootstrap
+
+---
+
+# 🗄 Databases
+
+✔ MongoDB
+
+✔ MySQL
+
+---
+
+# ☁ Tools
+
+✔ Git
+
+✔ GitHub
+
+✔ VS Code
+
+✔ Postman
+
+✔ Docker (Learning)
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+halimovshamshodbek173@gmail.com
+
+💬 Telegram
+
+@khalimoff11
+
+📸 Instagram
+
+@khalimoff.11
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile.
