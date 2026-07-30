@@ -8,6 +8,9 @@
 
 <div align="center">
 
+<!-- HERO BACKGROUND VISUAL -->
+<img src="assets/ai-bot-demo.gif" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D1E,100:39FF14&height=280&section=header&text=SHAMSHODBEK%20HALIMOV&fontSize=46&fontColor=39FF14&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Computing&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
